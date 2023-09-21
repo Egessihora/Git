@@ -225,7 +225,7 @@ Git хранит свои файлы и историю прямо в папке 
 4. Теперь создайте в любом редакторе текстовый файл под названием new_file.txt и сохраните его в директории New_Project.
 Также можно, находясь в директории New_Project нажать на ПКМ и выбрать создать > текстовый документ
 
-[![2.png](https://i.postimg.cc/26LhzwZX/2.png)](https://postimg.cc/7GDf9SXg)
+[![2.png](https://i.postimg.cc/xdCF3WwJ/2.png)](https://postimg.cc/DS9g2Yyn)
 
 **Определение состояния**
 
