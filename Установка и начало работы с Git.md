@@ -296,7 +296,7 @@ Git хранит свои файлы и историю прямо в папке 
 
 [![5.png](https://i.postimg.cc/FFpCYgnC/5.png)](https://postimg.cc/jCW49NTy)
 
-* Чаще всего используют команду ```git commit -m "Add some code"
+* Чаще всего используют команду ```git commit -m "Add some code"```
 
 Флажок -m задаст commit message - краткий комментарий.
 ___
